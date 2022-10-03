@@ -6,7 +6,7 @@ Awesome list of learn materials on Git
 ## For beginners
 
 - [Git in 1 Hour](https://youtu.be/8JJ101D3knE) by [Programming with Mosh](https://www.youtube.com/c/programmingwithmosh) ( _video_ )
-- [Git: Complete Course Tutorial](https://www.youtube.com/watch?v=vMdSqMf6BPY&list=PL_euSNU_eLbegnt7aR8I1gXfLhKZbxnYX) by [Leela Web Dev](https://www.youtube.com/c/LeelaWebDev) ( _video_ ) ( _course_ )
+- [Git: Complete Course Tutorial](https://www.youtube.com/playlist?list=PL_euSNU_eLbegnt7aR8I1gXfLhKZbxnYX) by [Leela Web Dev](https://www.youtube.com/c/LeelaWebDev) ( _video_ ) ( _course_ )
 - [Git. Большой практический выпуск](https://www.youtube.com/watch?v=SEvR78OhGtw) by [Артем Матяшов](https://www.youtube.com/channel/UCJHS22_QyRowmNAaxoUd4dA) ( _video_ ) ( _course_ ) ( _non-eng_ )
 - [Git: курс](https://www.youtube.com/playlist?list=PLDyvV36pndZFHXjXuwA_NywNrVQO0aQqb) ( _video_ ) ( _course_ ) ( _non-eng_ ) 
 - [Learn Git Branching through game](https://learngitbranching.js.org/) ( _game_ ) ( _reading_ )
